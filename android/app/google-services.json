@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "134047785603",
-    "project_id": "to-do-list-dc4d7",
-    "storage_bucket": "to-do-list-dc4d7.appspot.com"
+    "project_number": "698150285195",
+    "project_id": "todo-application-d2cb6",
+    "storage_bucket": "todo-application-d2cb6.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:134047785603:android:f7ee15bdcce136867cb1b6",
+        "mobilesdk_app_id": "1:698150285195:android:0b25ab6b4417188759498e",
         "android_client_info": {
           "package_name": "com.example.base_todolist"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAEkhHOQxX1j6bN8BgUw1x5IMKgPet8xAM"
+          "current_key": "AIzaSyDSL23N05UCejYlj79tPfX_og9LcoJ5CV4"
         }
       ],
       "services": {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:134047785603:android:c1f417db0686d8107cb1b6",
+        "mobilesdk_app_id": "1:698150285195:android:43bd7e22378709fa59498e",
         "android_client_info": {
           "package_name": "com.example.flutter_todolistfirebase"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAEkhHOQxX1j6bN8BgUw1x5IMKgPet8xAM"
+          "current_key": "AIzaSyDSL23N05UCejYlj79tPfX_og9LcoJ5CV4"
         }
       ],
       "services": {
